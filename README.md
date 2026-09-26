@@ -15,6 +15,7 @@ Data analysis · General accounting (basics) · Microsoft Office (Word, Excel, P
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=python,apple,vscode"/>
+
 ### 🛠️ Outils & Compétences
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
