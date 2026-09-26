@@ -14,3 +14,6 @@ French (native) · English (B2) · Italian (B1)
 
 ### 📫 Contact
 📧 gwenael.jeanblanc38@gmail.com
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=python" />
