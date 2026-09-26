@@ -1,13 +1,25 @@
-Hi 🤠, I'm Gwenaël
-An Engineering Student interested in software development and computer science, creating web projects and applications
-👨‍💻 All of my projects are available at [https://github.com/Luk-Charp?tab=repositories](https://github.com/Luk-Charp?tab=repositories)
+## 👋 Salut, je suis Gwenaël
 
-📄 Know about my experiences [https://drive.google.com/file/d/1JzTnIibAhUdy0JAMQU_YWcgP6wlwhCuZ/view?usp=drive_link](https://drive.google.com/file/d/1ZUdWwo23ru-QTjmWILp8pCtCf0tAyPWA/view?usp=drive_link)
+🎓 Étudiant en 3ᵉ année de Licence Économie-Gestion à l'UPJV Amiens (2025/2026)
+📍 Croissy-sur-Celle, Hauts-de-France
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-charpentier-90a795352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-charpentier-90a795352/" height="30" width="40" /></a>
-</p>
+### 💼 Expériences
+- **Stagiaire – Direction de la commande publique** (UPJV) : soutien à l'acheteuse, note de synthèse sur les risques juridiques et conflits d'intérêts, benchmark marché
+- **Stagiaire – Direction Trésorerie, Groupe SILL** : prévisions de trésorerie (SAGE XRT), gestion des flux bancaires et du risque de change, cash-pooling, transition ESG
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,html,css" />
+### 🎓 Formation
+- Licence 1 & 2 Économie-Gestion – UPJV Amiens (2025/2026)
+- Baccalauréat mention bien – Lycée Louis Thuillier, Amiens (2024)
+
+### 🛠️ Compétences
+Analyse de données · Comptabilité générale (notions) · Pack Office (Word, Excel, PowerPoint) · Lecture d'indicateurs économiques
+
+### 🌍 Engagement citoyen
+- Service National Universel 2023 – délégué élu de ma promotion
+- Candidat aux élections municipales 2026, Croissy-sur-Celle
+
+### 🗣️ Langues
+Français (natif) · Anglais (B2) · Italien (B1)
+
+### 📫 Contact
+📧 gwenael.jeanblanc38@gmail.com
