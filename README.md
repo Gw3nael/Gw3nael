@@ -10,9 +10,6 @@ Data analysis · General accounting (basics) · Microsoft Office (Word, Excel, P
 <a href="https://www.linkedin.com/in/gwena%C3%ABl-jeanblanc-189990218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gwena%C3%ABl-jeanblanc-189990218/" height="30" width="40" /></a>
 </p>
 
-### 📫 Contact
-📧 gwenael.jeanblanc38@gmail.com
-
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=python,apple,vscode"/>
 
