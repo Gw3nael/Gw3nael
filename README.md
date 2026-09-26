@@ -1,25 +1,16 @@
-## 👋 Salut, je suis Gwenaël
+## 👋 Hi, I'm Gwenaël
 
-🎓 Étudiant en 3ᵉ année de Licence Économie-Gestion à l'UPJV Amiens (2025/2026)
-📍 Croissy-sur-Celle, Hauts-de-France
+🎓 Economics & Management student at UPJV Amiens (2025/2026)
+ 
+### 💼 Experience
+- **Intern – Public Procurement Department** (UPJV): supported the university's buyer, wrote a report on legal risk prevention and conflicts of interest, ran a market benchmark
+- **Intern – Treasury Department, SILL Group**: cash flow forecasting (SAGE XRT), managed bank flows and currency risk, cash-pooling, ESG transition
 
-### 💼 Expériences
-- **Stagiaire – Direction de la commande publique** (UPJV) : soutien à l'acheteuse, note de synthèse sur les risques juridiques et conflits d'intérêts, benchmark marché
-- **Stagiaire – Direction Trésorerie, Groupe SILL** : prévisions de trésorerie (SAGE XRT), gestion des flux bancaires et du risque de change, cash-pooling, transition ESG
+### 🛠️ Skills
+Data analysis · General accounting (basics) · Microsoft Office (Word, Excel, PowerPoint) · Reading economic indicators
 
-### 🎓 Formation
-- Licence 1 & 2 Économie-Gestion – UPJV Amiens (2025/2026)
-- Baccalauréat mention bien – Lycée Louis Thuillier, Amiens (2024)
-
-### 🛠️ Compétences
-Analyse de données · Comptabilité générale (notions) · Pack Office (Word, Excel, PowerPoint) · Lecture d'indicateurs économiques
-
-### 🌍 Engagement citoyen
-- Service National Universel 2023 – délégué élu de ma promotion
-- Candidat aux élections municipales 2026, Croissy-sur-Celle
-
-### 🗣️ Langues
-Français (natif) · Anglais (B2) · Italien (B1)
+### 🗣️ Languages
+French (native) · English (B2) · Italian (B1)
 
 ### 📫 Contact
 📧 gwenael.jeanblanc38@gmail.com
